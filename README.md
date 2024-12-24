@@ -1,17 +1,18 @@
 # SurveillanceManager
- -Designed and developed SurveillanceManager, a Java-based software system for analyzing and reporting on telecommunication data. Key highlights include:
-Data Processing and Analysis: Engineered functionality to parse and process structured input files, including detailed call records and personal contact information.
+-Developed SurveillanceManager, a Java-based program for analyzing and reporting on telecommunication data. Key features include:
 
- -Report Generation: Created dynamic reporting tools to:
+ -Data Processing: Parsed input files containing phone call records and personal information.
  
- -Summarize call histories by individual, ordered by timestamp and call ID.
+ -Report Generation: Generated reports that display:
  
- -Conduct multi-hop network analysis, identifying individuals within specified connection ranges.
+ -Call histories for individuals in chronological order.
  
- -Robust Error Handling: Implemented safeguards to handle invalid or missing data gracefully, ensuring a seamless user experience.
+ -A network of people connected within a specified number of phone call “hops.”
  
- -Performance Optimization: Achieved efficient data processing, meeting stringent performance benchmarks for large datasets. 
- 
- -Design Constraints: Developed the system exclusively using list-based data structures, ensuring simplicity and compliance with project constraints.
+-Error Handling: Added functionality to handle invalid or missing input files and data.
 
-This project provided valuable experience in building scalable, data-intensive applications and optimizing performance in complex analytical workflows.
+-Performance: Ensured reports could be generated quickly, meeting requirements for large datasets.
+
+-Design Constraints: Used list-based data structures to meet specific project guidelines.
+
+This project focused on processing large datasets efficiently, organizing information clearly, and meeting strict performance requirements.
