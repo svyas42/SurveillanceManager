@@ -3,7 +3,8 @@
 
  -Data Processing: Parsed input files containing phone call records and personal information.
  
- -Report Generation: Generated reports that display:
+ 
+ Report Generation: Generated reports that display:
  
  -Call histories for individuals in chronological order.
  
